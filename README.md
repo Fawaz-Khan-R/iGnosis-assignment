@@ -29,9 +29,8 @@ Loyal customers were identified based on their total spending. Their characteris
 - **Premium vs. Budget Buyers**: The analysis distinguishes whether high-value customers prefer premium or budget products.
 
 ## Hypothesis on Customer Loyalty
-- **Product Preference**: Loyal customers continue purchasing due to high product satisfaction and alignment with their needs.
-- **Brand Loyalty**: Emotional connection, trust, or habitual shopping patterns drive retention.
 - **Pricing & Value Perception**: Budget-conscious or premium-focused customers stick to brands that offer the best value.
+- **Convenience**: A significant portion of loyal customers are families,whether they may be older or younger families. They may favor convenience—easy access, quick checkout, and reliable product availability.
 - **High-Quality**: Customers might be loyal because of the high quality of the products.
 
 ## Visualization Insights
